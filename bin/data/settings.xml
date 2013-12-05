@@ -1,0 +1,26 @@
+<klolys>
+	<dyn0>0.272464</dyn0>
+	<dyn1>0.782609</dyn1>
+	<dyn2>0.521739</dyn2>
+	<dyn3>0.386473</dyn3>
+	<dyn4>0.376812</dyn4>
+	<dyn5>0.425121</dyn5>
+	<dyn6>0.173913</dyn6>
+	<dyn7>0.5</dyn7>
+	<dyn8>0.5</dyn8>
+	<dyn9>0.545</dyn9>
+	<dyn10>0.775</dyn10>
+	<dyn11>0.83</dyn11>
+	<dyn12>0.81</dyn12>
+	<dyn13>0.82</dyn13>
+<klolys/>
+	<dyn14>0.82</dyn14>
+	<dyn15>0.5</dyn15>
+	<Saturation>0.527559</Saturation>
+	<Noise>0.779528</Noise>
+	<Clock>109541</Clock>
+<Scene>0</Scene>
+	<Tint>0, 0, 255, 255</Tint>
+	<Highlight>163, 0, 193, 255</Highlight>
+	<Background>0, 200, 200, 255</Background>
+</klolys>
